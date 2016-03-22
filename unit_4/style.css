@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+
+p {
+	font-family: 'Oswald', sans-serif;
+	font-size: 18px;
+	line-height: 1.25em;
+	margin: 1.5em;
+}
+body {
+    background-color: gold;
+}
+h1, p {
+    color: blue;
+}
