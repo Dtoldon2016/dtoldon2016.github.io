@@ -31,4 +31,13 @@ h1, p {
 	content: "";
 	display: block;
 	clear: both;
+
+@media (max-width: 100%) {
+	nav {
+		float: none;
+	}
+
+	nav a {
+		margin: 0 1.6em .75em 0;
+	}
 }
